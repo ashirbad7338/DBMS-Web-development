@@ -4,7 +4,7 @@ body{
 }
 #body{
     display: grid;
-    background-image: url('wp5522042-indian-railway-wallpapers.jpg');
+    background-image: url('/Images/wp5522042-indian-railway-wallpapers.jpg');
     background-position: center;
     place-items: center;
     font-family: 'Berlin sans fb';
