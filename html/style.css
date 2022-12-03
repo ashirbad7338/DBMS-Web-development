@@ -1,0 +1,46 @@
+#body{
+    background-image: url('wp5521940-indian-railway-wallpapers.jpg');
+    background-size: cover;
+    font-size: 23px;
+    height: 85vh;
+    width: 100%;
+    font-family: 'Times New Roman', Times, serif;
+    display:grid;
+    place-items: center;
+    border: 3px solid black;
+}
+#head{
+    height: 13vh;
+    width: 100%;
+    font-size: 150%;
+    background-color: darkkhaki;
+    font-family: 'Times New Roman', Times, serif;
+    border: 3px solid black;
+}
+hr{
+    width: 100%;
+    size: bold;
+
+}
+#container{
+    display: grid;
+    place-items: center;
+    height: 50%;
+    width: 40%;
+    background: transparent;
+}
+input[type="text"],
+input[type="password"] {
+    width: 20vw;
+    height: 5vh;
+    margin-bottom: 2vh;
+}
+label {
+    font-size: 100%;
+    font-weight:bolder;
+    color: rgb(212, 248, 247);
+}
+button {
+    height: 3vh;
+    width: 7vw;
+}
